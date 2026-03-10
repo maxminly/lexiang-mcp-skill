@@ -1,6 +1,6 @@
 ---
 name: lexiang-knowledge-base
-description: Use for Lexiang knowledge base tasks when the user explicitly mentions 乐享 or lexiang, provides a lexiangla.com link, or asks to search, read, create, update, reorganize, or upload content in Lexiang.
+description: 用于乐享知识库相关任务，当用户明确提及「乐享」或 lexiang、提供 lexiangla.com 链接，或提出在乐享中搜索、阅读、创建、更新、整理、上传内容等操作需求时使用。
 ---
 
 # 乐享知识库 Skill
